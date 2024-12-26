@@ -25,6 +25,10 @@
   "editor.scrollbar.vertical": "hidden",
   "explorer.compactFolders": false,
   "workbench.statusBar.visible": false,
+  "workbench.colorCustomizations": {
+    "editorCursor.foreground": "#FF007F",
+    "editorLineNumber.activeForeground": "#FFD700",
+  },
   //JavaScript
   "javascript.suggest.autoImports": true,
   "javascript.updateImportsOnFileMove.enabled": "always",
