@@ -1,4 +1,5 @@
 {
+  "workbench.startupEditor": "none",
   //texto
   "editor.rulers": [
     80,
