@@ -30,12 +30,19 @@
     "editorCursor.foreground": "#FF007F",
     "editorLineNumber.activeForeground": "#FFD700",
   },
+  //Custom CSS and JS Loader
+  "vscode_custom_css.imports": [
+    "file:///C:/[path-of-custom-css]/vscode-custom/style.css",
+    "file:///C:/[path-of-custom-css]/vscode-custom/script.js"
+  ],
   //JavaScript
   "javascript.suggest.autoImports": true,
   "javascript.updateImportsOnFileMove.enabled": "always",
   //Terminal
   "terminal.integrated.fontSize": 14,
   "terminal.integrated.fontFamily": "JetBrainsMono Nerd Font",
+  "terminal.external.windowsExec": "C:\\Program Files\\Git\\bin\\bash.exe",
+  "terminal.integrated.defaultProfile.windows": "Git Bash",
   //Arquivos
   "files.associations": {
     ".env.*": "dotenv",
